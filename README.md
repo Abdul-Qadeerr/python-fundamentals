@@ -35,14 +35,3 @@ This repo contains all my practice notebooks, theory notes, and small projects c
 - `day-7-projects` → Small real-life Python projects.  
 
 ---
-
-## 📊 Extra Learning (Visualization)  
-- `matplotlib_real_data.ipynb` → Data visualization using **Matplotlib** (Bar, Line, Scatter, Pie charts with real-life inspired data of Abeer, Qadeer, Umer, Sehrish, Khani).  
-
----
-
-## ⚡ How to Use  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/Abdul-Qadeerr/python-learning.git
-   cd python-learning
